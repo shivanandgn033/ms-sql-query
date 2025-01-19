@@ -1,3 +1,5 @@
+Refrer JSON file for query and image file for db structure.
+
 Questions: easy completed
 Show first name, last name, and gender of patients whose gender is 'M'
 
