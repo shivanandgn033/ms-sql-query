@@ -1,1 +1,1 @@
-sql query practice
+MS sql query practice
